@@ -1,0 +1,507 @@
+{
+  "customer_service": {
+    "contact_info": {
+      "toll_free_number": "+91 7219821111",
+      "operating_hours": "9 AM to 8 PM IST, Monday to Sunday",
+      "email": "customerservice@bajajauto.co.in",
+      "whatsapp_number": "+91 7507245858",
+      "whatsapp_instructions": "Send 'Hi' to +91 7507245858 to access services like policy updates, test ride bookings, or service requests. Ensure the message is sent from your registered mobile number.",
+      "grievance_redressal": [
+        {
+          "level": 1,
+          "description": "Contact the Grievance Redressal Officer for unresolved issues.",
+          "contact": "Email: ggro@bajajallianz.co.in (Mr. Jerome Vincent)",
+          "source": "Bajaj Allianz"
+        },
+        {
+          "level": 2,
+          "description": "If unresolved, give a missed call or SMS 'WORRY' to +91 8080945060 for a callback from a care specialist.",
+          "source": "Bajaj Allianz"
+        },
+        {
+          "level": 3,
+          "description": "Escalate to the Insurance Ombudsman if the issue persists. Visit https://www.cioins.co.in/Ombudsman for details.",
+          "source": "Bajaj Allianz"
+        }
+      ],
+      "social_media": {
+        "twitter": "https://twitter.com/BajajAllianz",
+        "facebook": "https://www.facebook.com/BajajAllianz",
+        "instagram": "https://www.instagram.com/bajajallianzgeneral/"
+      },
+      "app": {
+        "name": "Caringly Yours",
+        "features": "Claim registration, policy management, e-card storage, motor OTS claims up to ₹30,000",
+        "download": "Available on Google Play Store and Apple App Store"
+      }
+    },
+    "warranty_info": {
+      "standard_warranty": "2 years or 30,000 km (whichever comes first) on all Bajaj bikes",
+      "extended_warranty": "Option to extend up to 5 years through authorized dealers, subject to additional cost",
+      "coverage": "Covers manufacturing defects in engine, chassis, and major components. Excludes wear-and-tear parts (e.g., tyres, brake pads).",
+      "claim_process": "Visit an authorized Bajaj service centre with the bike’s service booklet and purchase invoice. Free services are provided within the first 2 years or specified km, typically at 500-750 km (first), 4500-5500 km (second), and 9500-10500 km (third).",
+      "notes": "Maintain regular servicing at authorized centres to keep warranty valid. Check owner’s manual for model-specific details."
+    },
+    "service_info": {
+      "service_schedule": "Every 4000-5000 km or 3-6 months, depending on the model. First service at 500-750 km within 30-45 days of purchase.",
+      "average_service_cost": "₹1000-3000 per service, depending on model and labour charges in Hyderabad.",
+      "spare_parts": "Available at over 2000 authorized Bajaj service centres across India. Use genuine parts to avoid warranty voidance.",
+      "service_booking": "Book via Bajaj Auto website, Caringly Yours app, or WhatsApp (+91 7507245858). Home service available in select cities like Hyderabad."
+    },
+    "insurance_info": {
+      "mandatory": "Third-party insurance required under the Motor Vehicles Act, 1988.",
+      "comprehensive_option": "Covers theft, damage, and third-party liability. Recommended for new bikes like Pulsar or Dominar.",
+      "claim_process": "Call 1800-209-5858 or use the Caringly Yours app for claims. For motor claims up to ₹30,000, use Motor OTS feature. Claims processed within 7 working days if documents are valid.",
+      "contact": "Email: customercare@bajajallianz.co.in or call 1800-209-7272 for insurance queries.",
+      "notes": "Renew insurance online via Bajaj Allianz website or app. Check add-ons like roadside assistance for bikes like Freedom 125."
+    },
+    "financing_info": {
+      "partners": ["Bajaj Finance", "Muthoot Capital", "HDFC Bank", "ICICI Bank"],
+      "loan_requirements": [
+        "Identity proof (Aadhaar, PAN)",
+        "Address proof (utility bill, passport)",
+        "Income proof (salary slips, bank statements for salaried; ITR for self-employed)",
+        "Completed loan application form"
+      ],
+      "process": "Apply through Bajaj dealers or online via Bajaj Finance portal (www.bajajfinserv.in). EMI options available for 6-96 months with interest rates of 10-31% p.a.",
+      "contact": "Call +91 8698010101 or email wecare@bajajfinserv.in for loan queries.",
+      "notes": "Check eligibility using the Bajaj Finance app. Festive season offers may reduce interest rates or include cashback."
+    },
+    "cng_bike_info": {
+      "model": "Freedom 125",
+      "variants": ["NG04 Disc LED", "NG04 Drum LED", "NG04 Drum"],
+      "benefits": [
+        "Running cost ~₹1/km (CNG) vs ₹2.5/km (petrol)",
+        "Eco-friendly with lower emissions",
+        "Dual fuel (CNG/petrol) for flexibility",
+        "110 km/kg CNG mileage, 67 kmpl petrol mileage"
+      ],
+      "refueling_tips": [
+        "Locate CNG stations via apps like CNG Pump Locator or Google Maps (limited in some areas).",
+        "Ensure CNG tank is filled by trained personnel at certified stations.",
+        "Switch to petrol mode if CNG is unavailable; 2L petrol tank provides ~130 km range.",
+        "Regularly inspect CNG tank for safety at authorized service centres."
+      ],
+      "availability": "CNG stations are prevalent in Hyderabad, Delhi, and Pune but limited in rural areas. Check local infrastructure before purchase."
+    },
+    "common_complaints": [
+      {
+        "issue": "Delayed service or poor coordination",
+        "resolution": "Contact customer care at +91 7219821111 or escalate via WhatsApp (+91 7507245858). Book services in advance via the Caringly Yours app to avoid delays.",
+        "source": "Bajaj Allianz customer feedback"
+      },
+      {
+        "issue": "Insurance claim processing delays",
+        "resolution": "Ensure all documents (policy, RC, DL) are submitted via the Caringly Yours app or email (customercare@bajajallianz.co.in). Claims are processed within 7 working days if valid.",
+        "source": "Bajaj Allianz"
+      },
+      {
+        "issue": "Difficulty contacting customer care",
+        "resolution": "Use WhatsApp (+91 7507245858) or the Caringly Yours app for faster response. For unresolved issues, escalate to the Grievance Redressal Officer (ggro@bajajallianz.co.in).",
+        "source": "India Customer Care"
+      },
+      {
+        "issue": "Spare parts availability",
+        "resolution": "Visit authorized Bajaj service centres. If parts are unavailable, contact customer care or order via the Bajaj Auto website. Avoid third-party parts to maintain warranty.",
+        "source": "Bajaj Auto"
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "category": "Bike Selection",
+      "question": "What type of bike should I choose for daily commuting in Indian cities?",
+      "answer": "For daily commuting in Indian cities, opt for a lightweight commuter bike with a 100-150cc engine, offering high mileage (50-70 kmpl) and easy handling in traffic. Examples include Bajaj Platina 100 or Pulsar 150. Consider fuel efficiency, comfort, and maintenance costs. Test ride to ensure the bike suits your height and riding posture."
+    },
+    {
+      "category": "Bike Selection",
+      "question": "Which bike is best for long-distance rides or highway cruising?",
+      "answer": "Cruiser or touring bikes like Bajaj Avenger Cruise 220 or Dominar 400 are ideal for long-distance rides due to their ergonomic design, comfortable seating, and powerful engines (200cc+). Look for features like ABS and good suspension for safety and comfort."
+    },
+    {
+      "category": "Bike Selection",
+      "question": "How do I choose a bike that fits my body size?",
+      "answer": "Ensure your feet can comfortably touch the ground when stopped. Check seat height, handlebar position, and bike weight. For taller riders (e.g., 6'4\"), bikes like Bajaj Dominar 400 or Avenger Street 160 offer better ergonomics. Test ride to confirm fit and control."
+    },
+    {
+      "category": "Bike Selection",
+      "question": "Should I buy a petrol or CNG bike like the Bajaj Freedom 125?",
+      "answer": "Petrol bikes are better for long-distance travel due to wider fuel availability. CNG bikes like Bajaj Freedom 125 are eco-friendly and cost-effective (lower running costs) for city commuting, but CNG stations are limited. Choose based on your commute and local CNG infrastructure in Hyderabad."
+    },
+    {
+      "category": "Bike Selection",
+      "question": "What are the benefits of choosing a Bajaj bike over other brands?",
+      "answer": "Bajaj bikes are known for reliability, fuel efficiency, and affordable maintenance. Models like Pulsar and Platina offer a range of options for commuters and enthusiasts, with features like DTS-i engines and ABS. Bajaj’s wide service network ensures easy access to spare parts."
+    },
+    {
+      "category": "Performance",
+      "question": "What engine size (cc) is suitable for a beginner rider?",
+      "answer": "Beginners should start with 100-150cc bikes (e.g., Bajaj Platina 100, Pulsar NS125) for easy handling and moderate power. These offer good mileage and are less intimidating. As skills improve, consider upgrading to 200-250cc models."
+    },
+    {
+      "category": "Performance",
+      "question": "How do I check a bike’s real-world mileage?",
+      "answer": "Check online reviews from users or automotive portals like BikeWale for real-world mileage. Test ride the bike to gauge performance under your riding conditions. For example, Bajaj Platina 100 offers ~72 kmpl, while Pulsar NS200 gives ~35-40 kmpl."
+    },
+    {
+      "category": "Performance",
+      "question": "What safety features should I look for in a bike?",
+      "answer": "Prioritize bikes with Anti-lock Braking System (ABS) (e.g., Bajaj Pulsar N160), disc brakes, and good tyres for grip. Single or dual-channel ABS prevents wheel lockup during sudden braking. Check for LED headlights for better visibility."
+    },
+    {
+      "category": "Cost and Financing",
+      "question": "What additional costs should I consider beyond the bike’s price?",
+      "answer": "Account for insurance (mandatory third-party, ~₹6,000-12,000), RTO registration fees (~₹1,500-15,000), accessories (e.g., helmet, guards), and maintenance (₹1000-3000 per service). For example, Bajaj Pulsar servicing costs ~₹1500 every 4000-5000 km."
+    },
+    {
+      "category": "Cost and Financing",
+      "question": "Can I negotiate the price of a new bike?",
+      "answer": "Yes, many dealers offer discounts on accessories, insurance, or extended warranties. For popular models like Bajaj Pulsar NS200, discounts may be limited due to demand, but try negotiating during festive seasons like Diwali."
+    },
+    {
+      "category": "Cost and Financing",
+      "question": "What documents are needed for a bike loan?",
+      "answer": "For a two-wheeler loan, provide identity proof (Aadhaar, PAN), address proof (utility bill, passport), income proof (salary slips, bank statements for salaried; ITR for self-employed), and a completed loan application. Bajaj dealers facilitate loans via partners like Bajaj Finance."
+    },
+    {
+      "category": "Maintenance",
+      "question": "How often should I service my bike?",
+      "answer": "Service schedules vary by model. Most Bajaj bikes (e.g., Pulsar, Platina) require servicing every 4000-5000 km or 3-6 months. First service at 500-750 km within 30-45 days. Check the owner’s manual for specifics."
+    },
+    {
+      "category": "Maintenance",
+      "question": "Are spare parts easily available for Bajaj bikes?",
+      "answer": "Bajaj has over 2000 service centres across India, including Hyderabad, ensuring spare parts for models like Pulsar, Platina, and Dominar are readily available. Use authorized centres to avoid counterfeit parts."
+    },
+    {
+      "category": "Maintenance",
+      "question": "What accessories are must-haves for a new bike?",
+      "answer": "Essential accessories include an ISI-certified helmet, engine guard, and anti-vibration mirrors. Optional items like saddlebags or phone mounts depend on usage. Bajaj Freedom 125 includes a free helmet with purchase."
+    },
+    {
+      "category": "Legal and Documentation",
+      "question": "What is a Pre-Delivery Inspection (PDI) and why is it important?",
+      "answer": "PDI involves checking the bike’s condition before final payment, including manufacturing date (via VIN), odometer (<50 km), and physical condition (no dents, scratches). It ensures you receive a defect-free bike."
+    },
+    {
+      "category": "Legal and Documentation",
+      "question": "What documents are required to register a new bike in India?",
+      "answer": "You need identity proof (Aadhaar, PAN), address proof (utility bill, passport), proof of nationality (Voter ID, passport), and the bike’s invoice. The dealer facilitates RTO registration, mandatory within 7 days of delivery."
+    },
+    {
+      "category": "Legal and Documentation",
+      "question": "Is bike insurance mandatory in India?",
+      "answer": "Yes, third-party bike insurance is mandatory under the Motor Vehicles Act, 1988. Comprehensive insurance is optional but recommended for new bikes like Bajaj Pulsar or Dominar. Contact Bajaj Allianz at 1800-209-5858 for details."
+    },
+    {
+      "category": "Test Ride and Purchase Process",
+      "question": "Why is a test ride important before buying a bike?",
+      "answer": "A test ride helps assess comfort, handling, brakes, gear shifting, and engine smoothness. Check low-speed stability and suspension. For example, test Bajaj Pulsar NS160 for its streetfighter feel. If a dealer refuses, consider another showroom."
+    },
+    {
+      "category": "Test Ride and Purchase Process",
+      "question": "What should I check during a test ride?",
+      "answer": "Check engine sound, brake response, gear shifting smoothness, suspension, and low-speed stability. Ensure no vibrations or jerking. For Bajaj bikes, test ABS functionality (e.g., Pulsar N160) and comfort for your riding style."
+    },
+    {
+      "category": "Test Ride and Purchase Process",
+      "question": "How do I verify a bike’s condition before buying?",
+      "answer": "During PDI, check for dents, scratches, rust, and ensure the odometer is below 50 km. Verify the VIN matches the invoice. For used bikes, check service history and insurance claims. Take a mechanic for a detailed inspection."
+    },
+    {
+      "category": "General",
+      "question": "What’s the best time to buy a bike in India?",
+      "answer": "Festive seasons like Diwali or Dussehra often bring discounts and offers on bikes and accessories. Check with Hyderabad dealers for promotions on Bajaj models like Pulsar or Freedom 125."
+    },
+    {
+      "category": "General",
+      "question": "How do I choose between a new and used bike?",
+      "answer": "New bikes (e.g., Bajaj Platina 100) offer warranties and no prior wear but cost more. Used bikes are cheaper but require thorough checks for frame, engine, and paperwork. For beginners, new bikes are safer."
+    },
+    {
+      "category": "General",
+      "question": "Are Bajaj bikes suitable for college students?",
+      "answer": "Yes, models like Bajaj Pulsar NS125 or Platina 100 are popular among students for their affordability, mileage (50-70 kmpl), and sporty styling. They’re easy to maintain and suit city rides in Hyderabad."
+    },
+    {
+      "category": "Customer Service",
+      "question": "How can I book a test ride for a Bajaj bike?",
+      "answer": "Book a test ride via the Bajaj Auto website (www.bajajauto.com), WhatsApp (+91 7507245858), or by visiting an authorized dealer in Hyderabad. Provide your contact details and preferred model (e.g., Pulsar NS200).",
+      "source": "Bajaj Auto"
+    },
+    {
+      "category": "Customer Service",
+      "question": "What should I do if my service request is delayed?",
+      "answer": "Contact Bajaj customer care at +91 7219821111 or WhatsApp (+91 7507245858). If unresolved, escalate to the Grievance Redressal Officer (ggro@bajajallianz.co.in) or use the Caringly Yours app to track your request."
+    },
+    {
+      "category": "Customer Service",
+      "question": "How do I update my contact details with Bajaj Auto?",
+      "answer": "Update details via the Caringly Yours app, WhatsApp (+91 7507245858), or the Bajaj Auto website. Submit your registered mobile number, verify with OTP, and upload identity proof. Updates take up to 24 hours."
+    },
+    {
+      "category": "Warranty and Service",
+      "question": "What does the Bajaj bike warranty cover?",
+      "answer": "Bajaj’s 2-year/30,000 km warranty covers manufacturing defects in engine, chassis, and major components. Excludes wear-and-tear parts like tyres or brake pads. Extendable to 5 years at additional cost."
+    },
+    {
+      "category": "Warranty and Service",
+      "question": "Can I service my Bajaj bike at a non-authorized centre?",
+      "answer": "Servicing at non-authorized centres may void the warranty. Use one of Bajaj’s 2000+ authorized service centres in India, including Hyderabad, for genuine parts and warranty compliance."
+    },
+    {
+      "category": "CNG Bikes",
+      "question": "How do I refuel the Bajaj Freedom 125 CNG bike?",
+      "answer": "Locate CNG stations in Hyderabad using apps like CNG Pump Locator. Ensure trained personnel fill the 2 kg CNG tank. Switch to petrol mode (2L tank, ~130 km range) if CNG is unavailable. Inspect the tank regularly at authorized centres."
+    },
+    {
+      "category": "CNG Bikes",
+      "question": "Is the Bajaj Freedom 125 suitable for rural areas?",
+      "answer": "The Freedom 125 is ideal for cities like Hyderabad with CNG stations but less suitable for rural areas due to limited CNG infrastructure. Its dual-fuel system (CNG/petrol) offers flexibility, but check local station availability."
+    }
+  ],
+  "bikes": {
+    "Pulsar": [
+      {
+        "model": "NS400Z",
+        "engine_cc": 373,
+        "power_ps": 42.4,
+        "torque_nm": 35,
+        "starting_price_inr": 192938,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": ["Glossy Racing Red", "Pewter Grey", "Ebony Black", "Pearl Metallic White"],
+        "key_features": "Liquid-cooled engine, bi-directional quickshifter, sintered brake pads, Apollo Alpha H1 tyres, advanced electronic riding aids, 33 kmpl mileage. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "N250",
+        "engine_cc": 249.07,
+        "power_ps": 24.5,
+        "torque_nm": 21.5,
+        "starting_price_inr": 144326,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": ["Red", "Black"],
+        "key_features": "Balanced power, dual-channel ABS, updated features with nominal price hike. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "F250",
+        "engine_cc": 249.07,
+        "power_ps": 24.5,
+        "torque_nm": 21.5,
+        "starting_price_inr": 149350,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": null,
+        "key_features": "Half-fairing design, suited for urban and highway riding. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "220F",
+        "engine_cc": 220,
+        "power_ps": 20.4,
+        "torque_nm": 18.55,
+        "starting_price_inr": 137715,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": null,
+        "key_features": "Iconic design, reliable DTS-i engine, semi-fairing. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "NS200",
+        "engine_cc": 199.5,
+        "power_ps": 24.5,
+        "torque_nm": 18.7,
+        "starting_price_inr": 143213,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": ["Burnt Red", "Pewter Grey", "Cocktail Wine Red", "Ebony Black"],
+        "key_features": "Aggressive styling, perimeter frame, LCD console with smartphone connectivity. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "RS200",
+        "engine_cc": 199.5,
+        "power_ps": 24.5,
+        "torque_nm": 18.7,
+        "starting_price_inr": 185306,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": null,
+        "key_features": "Full fairing, slip-and-assist clutch, three ride modes (Rain, Road, Off-Road). Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "N160",
+        "engine_cc": 164.82,
+        "power_ps": 16,
+        "torque_nm": 14.65,
+        "starting_price_inr": 126669,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": ["Brooklyn Black", "Caribbean Blue", "Racing Red"],
+        "key_features": "Dual-channel ABS, Bluetooth-enabled LCD console, single-seat variant available. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "NS160",
+        "engine_cc": 160.3,
+        "power_ps": 17.2,
+        "torque_nm": 14.6,
+        "starting_price_inr": 130355,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": null,
+        "key_features": "Naked streetfighter look, nitrox suspension, flex-fuel variant (E100) showcased. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "150",
+        "engine_cc": 149.5,
+        "power_ps": 14,
+        "torque_nm": 13.25,
+        "starting_price_inr": 110419,
+        "on_road_price_hyderabad_inr": 137432,
+        "available_colors": null,
+        "key_features": "15L fuel tank, sporty commuter, single/twin-disc variants, 49 kmpl mileage."
+      },
+      {
+        "model": "NS125",
+        "engine_cc": 124.45,
+        "power_ps": 11.8,
+        "torque_nm": 11,
+        "starting_price_inr": 99994,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": null,
+        "key_features": "LED headlight, digital console, competes with TVS Raider 125. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "N125",
+        "engine_cc": 124.58,
+        "power_ps": 12,
+        "torque_nm": 11,
+        "starting_price_inr": 94741,
+        "on_road_price_hyderabad_inr": 94445,
+        "available_colors": ["Ebony Black", "Cocktail Wine Red", "Caribbean Blue", "Pewter Grey", "Fiery Orange", "Pewter Grey with Citrus Rush", "Pearl Metallic White"],
+        "key_features": "Lightweight (125 kg), 61.8 kmpl mileage, Bluetooth-enabled LCD, auto start/stop."
+      }
+    ],
+    "Platina": [
+      {
+        "model": "110 Drum",
+        "engine_cc": 115.45,
+        "power_ps": 8.6,
+        "torque_nm": 9.81,
+        "starting_price_inr": 74771,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": null,
+        "key_features": "High mileage (70 kmpl), drum brakes, affordable commuter. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "100",
+        "engine_cc": 102,
+        "power_ps": 7.9,
+        "torque_nm": 8.3,
+        "starting_price_inr": 70611,
+        "on_road_price_hyderabad_inr": 85765,
+        "available_colors": ["Ebony Black", "Satin Silver", "Cocktail Wine Red"],
+        "key_features": "Excellent mileage (72 kmpl), reliable commuter, cost-effective."
+      }
+    ],
+    "Avenger": [
+      {
+        "model": "Street 160",
+        "engine_cc": 160,
+        "power_ps": 15,
+        "torque_nm": 13.7,
+        "starting_price_inr": 120704,
+        "on_road_price_hyderabad_inr": 148203,
+        "available_colors": ["Spicy Red", "Ebony Black"],
+        "key_features": "Oil-cooled DTS-i FI engine, cruiser styling, low-slung seat, single-channel ABS, 13L fuel tank, 45 kmpl mileage."
+      },
+      {
+        "model": "Cruise 220",
+        "engine_cc": 220,
+        "power_ps": 18.76,
+        "torque_nm": 17.55,
+        "starting_price_inr": 148384,
+        "on_road_price_hyderabad_inr": 147379,
+        "available_colors": ["Moon White", "Auburn Black"],
+        "key_features": "Classic cruiser design, DTS-i engine, comfortable long-distance riding."
+      }
+    ],
+    "Dominar": [
+      {
+        "model": "400",
+        "engine_cc": 373.3,
+        "power_ps": 40,
+        "torque_nm": 35,
+        "starting_price_inr": 238682,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": ["Aurora Green", "Charcoal Black"],
+        "key_features": "DOHC liquid-cooled engine, 4 ride modes, dual-channel ABS, LED headlamp, digital cluster, traction control, slipper clutch, USD forks. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "250",
+        "engine_cc": 248.77,
+        "power_ps": 27,
+        "torque_nm": 23.5,
+        "starting_price_inr": 186000,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": ["Canyon Red", "Vine Black"],
+        "key_features": "Touring-focused, liquid-cooled engine, dual-channel ABS, premium features. Check on-road price in Hyderabad with local dealers."
+      }
+    ],
+    "CT": [
+      {
+        "model": "110X",
+        "engine_cc": 115.45,
+        "power_ps": 8.6,
+        "torque_nm": 9.81,
+        "starting_price_inr": 72179,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": ["Blue", "Red", "Green"],
+        "key_features": "Rugged build, high ground clearance, muscular looks, bold dual-tone colors. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "125X",
+        "engine_cc": 124.4,
+        "power_ps": 10.2,
+        "torque_nm": 11,
+        "starting_price_inr": 75902,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": ["Blue", "Red", "Green"],
+        "key_features": "Rugged commuter, enhanced mileage, durable for daily use. Check on-road price in Hyderabad with local dealers."
+      },
+      {
+        "model": "100",
+        "engine_cc": 102,
+        "power_ps": 7.9,
+        "torque_nm": 8.3,
+        "starting_price_inr": 62265,
+        "on_road_price_hyderabad_inr": null,
+        "available_colors": null,
+        "key_features": "Most affordable, high mileage (70 kmpl), reliable commuter. Check on-road price in Hyderabad with local dealers."
+      }
+    ],
+    "Freedom": [
+      {
+        "model": "125 NG04 Disc LED",
+        "engine_cc": 125,
+        "power_ps": 9.5,
+        "torque_nm": 9.7,
+        "starting_price_inr": 110000,
+        "on_road_price_hyderabad_inr": 130952,
+        "available_colors": ["Pewter Grey", "Caribbean Blue", "Pewter Grey with Citrus Rush", "Ebony Black", "Cocktail Wine Red"],
+        "key_features": "World's first CNG bike, dual fuel (CNG/Petrol), eco-friendly, 3 variants, 110 km/kg CNG mileage."
+      },
+      {
+        "model": "125 NG04 Drum LED",
+        "engine_cc": 125,
+        "power_ps": 9.5,
+        "torque_nm": 9.7,
+        "starting_price_inr": 103000,
+        "on_road_price_hyderabad_inr": 123094,
+        "available_colors": null,
+        "key_features": "CNG/petrol dual fuel, LED headlamp, cost-effective commuter, 110 km/kg CNG mileage."
+      },
+      {
+        "model": "125 NG04 Drum",
+        "engine_cc": 125,
+        "power_ps": 9.5,
+        "torque_nm": 9.7,
+        "starting_price_inr": 95000,
+        "on_road_price_hyderabad_inr": 108170,
+        "available_colors": null,
+        "key_features": "Base CNG variant, dual fuel, budget-friendly eco option, 110 km/kg CNG mileage."
+      }
+    ]
+  }
+}
